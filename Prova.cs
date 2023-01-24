@@ -12,7 +12,7 @@ namespace Informática
     {
         public static void Main()
         {
-
+            //Teste
             var letras = new List<Alternativa>
             {
                 new Alternativa("a"),
