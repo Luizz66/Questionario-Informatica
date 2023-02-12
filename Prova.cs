@@ -211,27 +211,27 @@ namespace Informática
                 if (a4 == resp4.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a5}{margem}-{margem}{resp5}{margem}=  ");
+                Console.Write($"Questão5){margem}{a5}{margem}-{margem}{resp5}{margem}=  ");
                 if (a5 == resp5.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a6}{margem}-{margem}{resp6}{margem}=  ");
+                Console.Write($"Questão6){margem}{a6}{margem}-{margem}{resp6}{margem}=  ");
                 if (a6 == resp6.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a7}{margem}-{margem}{resp7}{margem}=  ");
+                Console.Write($"Questão7){margem}{a7}{margem}-{margem}{resp7}{margem}=  ");
                 if (a7 == resp7.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a8}{margem}-{margem}{resp8}{margem}=  ");
+                Console.Write($"Questão8){margem}{a8}{margem}-{margem}{resp8}{margem}=  ");
                 if (a8 == resp8.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a9}{margem}-{margem}{resp9}{margem}=  ");
+                Console.Write($"Questão9){margem}{a9}{margem}-{margem}{resp9}{margem}=  ");
                 if (a9 == resp9.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                Console.Write($"Questão3){margem}{a10}{margem}-{margem}{resp10}{margem}=  ");
+                Console.Write($"Questão10){margem}{a10}{margem}-{margem}{resp10}{margem}=  ");
                 if (a10 == resp10.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
