@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.IO;
 using System.Linq;
-using System.Reflection.Metadata.Ecma335;
+using static Colorir.Color;
 
 namespace Informática
 {
