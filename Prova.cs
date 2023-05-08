@@ -197,10 +197,10 @@ namespace Informática
                 if (av10 == resp10.ToUpper()) { Console.WriteLine("CORRETO(+1)"); i++; }
                 else { Console.WriteLine("INCORRETO(0)"); }
 
-                ColorLine($"\nNOTA: {i}", ConsoleColor.DarkCyan);
+                ColorLine($"\nNOTA: {i}\n\n", ConsoleColor.DarkCyan);              
             }
 
-            Console.Read();
+            Console.ReadKey();
 
 
         }
