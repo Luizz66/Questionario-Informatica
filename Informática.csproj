@@ -6,10 +6,4 @@
 		<PublishSingleFile>true</PublishSingleFile>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <Reference Include="Colorir">
-	    <HintPath>..\Bibliotecas\Colorir\obj\Debug\net5.0\Colorir.dll</HintPath>
-	  </Reference>
-	</ItemGroup>
-
 </Project>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using static Colorir.Color;
+using static Informática.Ferramentas;
 
 namespace Informática
 {
