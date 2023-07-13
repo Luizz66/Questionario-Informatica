@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using static Informática.Ferramentas;
+using static Biblioteca.Ferramentas;
 
 namespace Informática
 {
-    internal class Prova
+    internal static class Prova
     {
         public static void Main()
         {
@@ -144,7 +144,7 @@ namespace Informática
                 ColorLine($"\nParabéns {nome}, teste finalizado, press Enter para calcularmos o seu resultado!\n\n\n", ConsoleColor.DarkYellow);
                 Console.ReadKey();
                 Console.ForegroundColor = ConsoleColor.DarkCyan;
-                string espaço = new string(' ', 5);
+                string espaço = new(' ', 5);
                 Console.WriteLine($"QUESTÃO{espaço}GABARITO{espaço}   R:\n");
                 var av1 = "E";
                 var av2 = "B";
